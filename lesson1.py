@@ -27,3 +27,7 @@ age1 = 12.5
 
 print(type(10*1.5))
 
+print("salom")
+print("salom")
+print("salom")
+print("salom")
