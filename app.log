@@ -1,0 +1,8 @@
+2026-09-29 19:46:18,154 - INFO - 🚗 oq nexia — 12$ (sotuvda) qoshildi
+2026-09-29 19:48:35,430 - INFO - 🚗 oq nexia — 12$ (sotuvda) qoshildi
+2026-09-29 19:49:15,095 - WARNING - Afsus, bu avto allaqachon sotilgan (ali ga).
+2026-09-29 19:50:56,487 - ERROR - Bunday raqamli avto yo'q list index out of range 
+2026-09-29 19:51:21,657 - ERROR - Bunday raqamli avto yo'q [list index out of range] 
+2026-09-29 19:56:50,432 - INFO - 12 qoshildi
+2026-09-29 19:57:04,006 - INFO - 12 qoshildi
+2026-09-29 19:58:02,958 - CRITICAL - <class 'int'> Avto classidan olingan obyektni bermayapsiz
