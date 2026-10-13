@@ -23,3 +23,9 @@ else:
     print('else ishladi')
 finally:
     print('finally ishladi')
+
+print('salom')
+print("salom3")
+print('salom1')
+print('salom1')
+print('salom1')
