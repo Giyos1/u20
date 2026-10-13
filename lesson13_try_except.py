@@ -25,3 +25,4 @@ finally:
     print('finally ishladi')
 
 print('salom')
+print('salom1')
